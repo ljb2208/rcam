@@ -28,7 +28,6 @@
 #include "RaspiPreview.h"
 #include "RaspiCLI.h"
 
-
 #include <semaphore.h>
 
 
